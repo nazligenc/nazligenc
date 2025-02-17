@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! I'm currently diving into the world of web development, focusing on Angular, HTML, and CSS. I'm passionate about front-end development and eager to improve my skills. As a beginner, I'm constantly learning and excited to share my projects and progress. Follow along on my journey. Let's build something amazing together!</p>
+<p align="left">I'm passionate about both Front-End and Back-End development, continuously expanding my skills to build dynamic and interactive web applications. My journey started with Angular, HTML, CSS, and Bootstrap, and I have since dived into Laravel, PHP, and MySQL to enhance my backend expertise. Follow along on my journey. Let's build something amazing together!</p>
 
 ###
 
@@ -40,9 +40,11 @@
 
 ###
 
-<p align="left">I'm committed to continuous learning and growth. I'm always exploring new technologies, frameworks, and best practices to stay updated in the ever-evolving field of web development. Here are a few resources I frequently use:<br><br>Online Courses: Platforms like Coursera, Udemy, and Pluralsight<br>Documentation: Official docs for Angular, HTML, CSS, and other tools</p>
+<p align="left">I'm committed to continuous learning and growth. I'm always exploring new technologies, frameworks, and best practices to stay updated in the ever-evolving field of web development. Here are a few resources I frequently use:<br><br>Online Courses: Platforms like Coursera, Udemy, and Pluralsight<br>Documentation: Official docs for Angular, Laravel, HTML, CSS, and other tools</p>
 
 ###
+
+
 
 <h2 align="left">GitHub Stats</h2>
 
